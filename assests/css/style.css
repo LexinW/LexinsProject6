@@ -1,0 +1,23 @@
+.planner {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .time-slots {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .time-slot {
+    padding: 30px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: gray;
+    margin-bottom: 5px;
+  }
+  .time-passed {
+    background-color: #ccc;
+  }
