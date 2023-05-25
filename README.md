@@ -28,3 +28,16 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
+
+
+WHAT HAVE I DONE::::
+
+
+I first went through and started to setup and name all the elements in the HTML file so I can later go in and correct their values when I implement the API. 
+
+I added bootstrap half way through because I was struggling with the buttons
+
+I added a sidebar to contain all the buttons and their information. I also created a weatherInfo for the clicked city in the search bar, and Im also making a fiveDayForecast element to add the 5 cards for the 5 day forecast. 
+
+So far I've styled and organized the webpage, Now I need to add the javascript functionality and weather API.
