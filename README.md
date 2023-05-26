@@ -63,5 +63,6 @@ This was the most challening project so far, but I feel I spent the most time st
 Screenshot (5/25): 
 ![Screenshot 2023-05-25 210807](https://github.com/LexinW/LexinsProject6/assets/10322786/9c85875d-e4af-4f04-ab1c-7b716c6a8569)
 
-
+Github REPO link: https://github.com/LexinW/LexinsProject6
+HTML link: https://lexinw.github.io/LexinsProject6/
 
