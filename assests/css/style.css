@@ -364,16 +364,42 @@ END NORMALIZE CSS
 .sidebar {
   align-items: center;
   padding: 10px;
-  width: 30%;
+  flex: 0 0 30%;
 }
 .sidebarContent {
   display: flex;
   flex-direction: column;
   text-align: center;
 }
+.contentContainer{
+  flex-direction: column;
+  margin: 0;
+}
 .Weatherinfo {
   flex: 1;
   max-height: 230px;
-  border-style: solid;
+  border: 1px solid black;
   padding: 10px;
+  width: 70vw;
+}
+.fiveDayForecast {
+  padding: 10px 0px;
+  margin-top: 20px;
+}
+.forecastContainer {
+  display: flex;
+  width: 70vw;
+}
+.forecastCard {
+  flex: 1;
+  color: white;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  justify-content: space-between;
+  background-color: rgb(116, 116, 116);
+}
+.forecastCard h3,
+.forecastCard p {
+  margin: 5px 0;
 }

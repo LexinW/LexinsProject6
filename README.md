@@ -41,3 +41,23 @@ I added bootstrap half way through because I was struggling with the buttons
 I added a sidebar to contain all the buttons and their information. I also created a weatherInfo for the clicked city in the search bar, and Im also making a fiveDayForecast element to add the 5 cards for the 5 day forecast. 
 
 So far I've styled and organized the webpage, Now I need to add the javascript functionality and weather API.
+
+I started adding the Javascript functionality. I started with a bunch of research and reading on the api and how to implement, I watched a video about someone creating a similar application with this API.
+
+I first want the searh bar to search for the city and get the data from the API, then apply that data to the weather info card, which is the first section showing the city name, date, temp, wind, and humidity.
+
+Once I got the API working and console logging out the info, I then created a function to update the HTMl with the data from the API to the appropriate spots. 
+
+I got the buttons to also apply the proper city name and info to the weather info card when those buttons are clicked. 
+
+I've been struggling getting the 5-day forecast to work. I cant seem to figure out how to update EACH card individually with 5 days of different information. 
+
+I also can not get the date to display next to the city name. I tried adding DayJS, but still had no luck. Watch some videos and nothing was working for me. I don't know what I was doing wrong on this part.
+
+Im going to include a screenshot of the current application I have working close to the deadline.
+
+I'm going to come back to the project and finish it this weekend based on the comments I receive from grading and the extra research im going to do. 
+
+This was the most challening project so far, but I feel I spent the most time studying this and trying to really make sure Im understanding each line of the code. 
+
+Screenshot (5/25): 
